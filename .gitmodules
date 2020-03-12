@@ -1,0 +1,9 @@
+[submodule "tf/multi-folder"]
+	path = tf/multi-folder
+	url = https://github.com/nar3k/tf-yc-recipes
+[submodule "elasticsearch-operator"]
+	path = elasticsearch-operator
+	url = git@github.com:Savemech/yc-k8s-elastic.git
+[submodule "prometheus"]
+	path = prometheus
+	url = git@github.com:Savemech/yc-k8s-prometheus.git
