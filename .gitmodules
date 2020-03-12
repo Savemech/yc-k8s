@@ -4,6 +4,6 @@
 [submodule "elasticsearch-operator"]
 	path = elasticsearch-operator
 	url = git@github.com:Savemech/yc-k8s-elastic.git
-[submodule "prometheus"]
-	path = prometheus
+[submodule "prometheus-operator"]
+	path = prometheus-operator
 	url = git@github.com:Savemech/yc-k8s-prometheus.git
